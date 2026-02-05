@@ -1,3 +1,6 @@
+# PROJECT: Jala-Viveka (Vedic-AI Logic)
+# DEVELOPED BY: Namah Communication (MSME: UDYAM-AS-05-0000684)
+# ARCHITECT: [JOYDEEP DAS]
 import time
 import json
 import requests
